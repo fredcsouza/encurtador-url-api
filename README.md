@@ -22,4 +22,4 @@ Projeto frentend criado para conectar a api encurtador de url
 
 [Githud do projeto frontend](https://github.com/fredcsouza/encurtador-url-interface)
 
-[Site Encurtador de URL]()
+[Site Encurtador de URL](https://fredcsouza.github.io/encurtador-url-interface/)
